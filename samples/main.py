@@ -3,7 +3,7 @@
 
 import os
 import pandas as pd
-from pandas_talib import *
+from talibpy import *
 
 def main():
     basepath = os.path.dirname(__file__)

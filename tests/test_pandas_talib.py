@@ -7,14 +7,14 @@ import unittest
 import pandas as pd
 import numpy as np
 import talib
-from pandas_talib import (
+from talibpy import (
     SETTINGS,
     SMA,
     MA,
     MOM,
     ATR,
 )
-# def test_pandas_talib(self):
+# def test_talibpy(self):
 #    raise(NotImplementedError)
 
 basepath = os.path.dirname(__file__)

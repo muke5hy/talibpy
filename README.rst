@@ -38,7 +38,7 @@ using:
 
 ::
 
-    $ pip install pandas_talib
+    $ pip install talibpy
 
 Development
 -----------
@@ -49,7 +49,7 @@ Issues
 ~~~~~~
 
 You can submit issues using
-https://github.com/femtotrader/pandas_talib/issues
+https://github.com/muke5hy/talibpy/issues
 
 Clone
 ~~~~~
@@ -58,7 +58,7 @@ You can clone repository to try to fix issues yourself using:
 
 ::
 
-    $ git clone https://github.com/femtotrader/pandas_talib.git
+    $ git clone https://github.com/muke5hy/talibpy.git
 
 Run unit tests
 ~~~~~~~~~~~~~~
@@ -73,7 +73,7 @@ Run a given test
 
 ::
 
-    $ nosetests tests.test_pandas_talib:test_indicator_MA -s -v
+    $ nosetests tests.test_talibpy:test_indicator_MA -s -v
 
 Run samples
 ~~~~~~~~~~~
@@ -95,7 +95,7 @@ or
 
 ::
 
-    $ sudo pip install git+https://github.com/femtotrader/pandas_talib.git
+    $ sudo pip install git+https://github.com/muke5hy/talibpy.git
 
 Collaborating
 ~~~~~~~~~~~~~
@@ -106,23 +106,23 @@ Collaborating
 
 https://help.github.com/categories/collaborating/
 
-.. |Latest Version| image:: https://img.shields.io/pypi/v/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |Supported Python versions| image:: https://img.shields.io/pypi/pyversions/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |Wheel format| image:: https://img.shields.io/pypi/wheel/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |License| image:: https://img.shields.io/pypi/l/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |Development Status| image:: https://img.shields.io/pypi/status/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |Downloads monthly| image:: https://img.shields.io/pypi/dm/pandas_talib.svg
-   :target: https://pypi.python.org/pypi/pandas_talib/
-.. |Requirements Status| image:: https://requires.io/github/femtotrader/pandas_talib/requirements.svg?branch=master
-   :target: https://requires.io/github/femtotrader/pandas_talib/requirements/?branch=master
-.. |Code Health| image:: https://landscape.io/github/femtotrader/pandas_talib/master/landscape.svg?style=flat
-   :target: https://landscape.io/github/femtotrader/pandas_talib/master
+.. |Latest Version| image:: https://img.shields.io/pypi/v/talibpy.svg
+   :target: https://pypi.python.org/pypi/talibpy/
+.. |Supported Python versions| image:: https://img.shields.io/pypi/pyversions/talibpy.svg
+   :target: https://pypi.python.org/pypi/talibpy/
+.. |Wheel format| image:: https://img.shields.io/pypi/wheel/talibpy.svg
+   :target: https://pypi.python.org/pypi/talibpy/
+.. |License| image:: https://img.shields.io/pypi/l/talibpy.svg
+   :target: https://pypi.python.org/pypi/talibpy/
+.. |Development Status| image:: https://img.shields.io/pypi/status/talibpy.svg
+   :target: https://pypi.python.org/pypi/talibpy/
+.. |Downloads monthly| image:: https://img.shields.io/pypi/dm/talibpy.svg
+   :target: https://pypi.python.org/pypi/talibpy/
+.. |Requirements Status| image:: https://requires.io/github/muke5hy/talibpy/requirements.svg?branch=master
+   :target: https://requires.io/github/muke5hy/talibpy/requirements/?branch=master
+.. |Code Health| image:: https://landscape.io/github/muke5hy/talibpy/master/landscape.svg?style=flat
+   :target: https://landscape.io/github/muke5hy/talibpy/master
 .. |Codacy Badge| image:: https://www.codacy.com/project/badge/1bf3606360934588ba764cca32210f52
-   :target: https://www.codacy.com/app/femto-trader/pandas_talib
-.. |Build Status| image:: https://travis-ci.org/femtotrader/pandas_talib.svg
-   :target: https://travis-ci.org/femtotrader/pandas_talib
+   :target: https://www.codacy.com/app/femto-trader/talibpy
+.. |Build Status| image:: https://travis-ci.org/muke5hy/talibpy.svg
+   :target: https://travis-ci.org/muke5hy/talibpy
